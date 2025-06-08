@@ -48,7 +48,7 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) that empowers 
 
 Explore real-world problems tackled with machine learning — from prediction to classification and clustering. Projects will include:
 
-- 📁 **Project 1:** _*Coming Soon*_  
+- 📁 **Project 1:** Twitter Sentiment Analysis - Hate Speech Detection (NLP)  
 - 📁 **Project 2:** _*Coming Soon*_  
 - 📁 **Project 3:** _*Coming Soon*_  
 - 📁 **Project 4:** _*Coming Soon*_
