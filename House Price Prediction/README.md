@@ -83,7 +83,7 @@ Predicted Price: ₹145.6 Lakhs
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/BhardwajChakri7/house-price-prediction.git
    cd house-price-prediction
    ```
 
