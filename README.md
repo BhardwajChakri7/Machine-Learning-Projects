@@ -72,7 +72,7 @@ Jupyter Notebook 📓
 🚀 Getting Started
 1️⃣ Clone This Repository
 ```
-git clone https://github.com/yourusername/machine-learning-mastery-hub.git
+git clone https://github.com/BhardwajChakri7/Machine-Learning-Projects.git
 cd machine-learning-mastery-hub
 ```
 2️⃣ Set Up Your Environment
